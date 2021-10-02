@@ -210,10 +210,10 @@ html{
         width: 100%;
     }
     .burger{
-        display: block;
+        display: none;
     }
     .h-nav-resp{
-        height: 72px;
+        height: 35px;
     }
     .v-class-resp{
         opacity: 0;
