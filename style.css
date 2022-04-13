@@ -113,6 +113,7 @@ html {
   padding: 6px 10px;
   vertical-align: middle;
   font-size: 16px;
+  color: #000;
 }
 .section {
   /* height: 400px; */
@@ -190,6 +191,19 @@ html {
 }
 .nav-icon {
   display: none;
+}
+.thankYou {
+  font-size: 93px;
+  text-align: center;
+  padding-top: 24%;
+  font-weight: bold;
+}
+.visit-again {
+  text-align: center;
+  font-size: 30px;
+}
+a {
+  text-decoration: none;
 }
 @media only screen and (max-width: 1347px) {
   .nav-list {
